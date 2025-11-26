@@ -1,0 +1,8 @@
+{
+  "name": "SocialCRM - 红鱼管家",
+  "description": "专注于小红书和闲鱼平台的智能社交客户关系管理系统，集成AI内容生成与客户管理。",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
