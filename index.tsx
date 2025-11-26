@@ -1,6 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import App from './App';
+import './src/index.css';  // 添加这行导入 CSS
 
 const rootElement = document.getElementById('root');
 if (!rootElement) {
